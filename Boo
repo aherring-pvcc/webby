@@ -1,0 +1,8 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+<title> Should websites be responsible for what their users post </title> 
+</head>
+<body>
+</body>
+</html>
